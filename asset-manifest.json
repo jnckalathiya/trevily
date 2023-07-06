@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trevily/static/css/main.1614677b.css",
+    "main.js": "/trevily/static/js/main.e218111e.js",
+    "static/media/value.jpg": "/trevily/static/media/value.7da713e2905295882281.jpg",
+    "static/media/hero-image.jpg": "/trevily/static/media/hero-image.3d58f2462e3794f34dbe.jpg",
+    "static/media/contact.jpg": "/trevily/static/media/contact.dc0a7e148330b677ccdb.jpg",
+    "index.html": "/trevily/index.html",
+    "main.1614677b.css.map": "/trevily/static/css/main.1614677b.css.map",
+    "main.e218111e.js.map": "/trevily/static/js/main.e218111e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1614677b.css",
+    "static/js/main.e218111e.js"
+  ]
+}
