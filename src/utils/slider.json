@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bonfire Area",
+    "detail": "ANY AGE",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Pitches With View",
+    "detail": "LAKE VIEW",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Pic-Nic Area",
+    "detail": "TABLES INCLUDED",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Bonfire Area",
+    "detail": "ANY AGE",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Pitches With View",
+    "detail": "LAKE VIEW",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Pic-Nic Area",
+    "detail": "TABLES INCLUDED",
+    "image": "./r3.png"
+  }
+]
